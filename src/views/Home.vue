@@ -1,6 +1,6 @@
 <template>
   <div class="home container-fluid">
-    <div class="bgs" id="bg-keyframes "></div>
+    <div class="bgs" id="bg-keyframes">er</div>
     <ColorSchemeExample />
   </div>
 </template>
