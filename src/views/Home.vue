@@ -1,7 +1,7 @@
 <template>
   <div class="home container-fluid">
     <div class="bgs" id="bg-keyframes"></div>
-    <!-- <ColorSchemeExample /> -->
+    <ColorSchemeExample />
   </div>
 </template>
 
